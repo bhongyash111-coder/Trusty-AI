@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="icon128.png" alt="Trusty-AI" width="100"/>
-</p>
+
 
 <h1 align="center">Trusty AI</h1>
 
